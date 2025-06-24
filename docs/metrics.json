@@ -195,7 +195,7 @@
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 2
+                "total": 3
             },
             "total": {
                 "assigned_per_member": {
@@ -226,7 +226,7 @@
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 2
+                "total": 3
             }
         }
     },
