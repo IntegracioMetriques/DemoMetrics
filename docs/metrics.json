@@ -38,8 +38,8 @@
     "issues": {
         "assigned": {
             "DidacLinares": 2,
-            "didaclinaresUPC": 1,
-            "non_assigned": 5
+            "didaclinaresUPC": 2,
+            "non_assigned": 4
         },
         "closed": {
             "DidacLinares": 0,
@@ -169,8 +169,8 @@
             "no_iteration": {
                 "assigned_per_member": {
                     "DidacLinares": 1,
-                    "didaclinaresUPC": 0,
-                    "non_assigned": 4
+                    "didaclinaresUPC": 1,
+                    "non_assigned": 3
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -178,7 +178,7 @@
                 },
                 "in_progress_per_member": {
                     "DidacLinares": 1,
-                    "didaclinaresUPC": 0
+                    "didaclinaresUPC": 1
                 },
                 "done_per_member": {
                     "DidacLinares": 0,
@@ -200,8 +200,8 @@
             "total": {
                 "assigned_per_member": {
                     "DidacLinares": 1,
-                    "didaclinaresUPC": 0,
-                    "non_assigned": 4
+                    "didaclinaresUPC": 1,
+                    "non_assigned": 3
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -209,7 +209,7 @@
                 },
                 "in_progress_per_member": {
                     "DidacLinares": 1,
-                    "didaclinaresUPC": 0
+                    "didaclinaresUPC": 1
                 },
                 "done_per_member": {
                     "DidacLinares": 0,
