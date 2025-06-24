@@ -37,9 +37,9 @@
     },
     "issues": {
         "assigned": {
-            "DidacLinares": 0,
+            "DidacLinares": 2,
             "didaclinaresUPC": 0,
-            "non_assigned": 6
+            "non_assigned": 4
         },
         "closed": {
             "DidacLinares": 0,
@@ -168,16 +168,16 @@
             },
             "no_iteration": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0,
-                    "non_assigned": 3
+                    "non_assigned": 2
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0
                 },
                 "done_per_member": {
@@ -199,16 +199,16 @@
             },
             "total": {
                 "assigned_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0,
-                    "non_assigned": 3
+                    "non_assigned": 2
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0
                 },
                 "in_progress_per_member": {
-                    "DidacLinares": 0,
+                    "DidacLinares": 1,
                     "didaclinaresUPC": 0
                 },
                 "done_per_member": {
