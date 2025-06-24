@@ -51,20 +51,150 @@
         "total": 0
     },
     "project": {
-        "has_iterations": false,
-        "iterations": {},
+        "has_iterations": true,
+        "iterations": {
+            "Iteration": {
+                "title": "Iteration",
+                "startDate": "2025-06-24",
+                "endDate": "2025-07-07",
+                "duration": 14
+            },
+            "Iteration 2": {
+                "title": "Iteration 2",
+                "startDate": "2025-07-08",
+                "endDate": "2025-07-21",
+                "duration": 14
+            },
+            "Iteration 3": {
+                "title": "Iteration 3",
+                "startDate": "2025-07-22",
+                "endDate": "2025-08-04",
+                "duration": 14
+            }
+        },
         "metrics_by_iteration": {
+            "Iteration": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0,
+                    "non_assigned": 0
+                },
+                "todo_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "in_progress_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "done_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "todo": 0,
+                "in_progress": 0,
+                "done": 0,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total_features_todo": 0,
+                "total_features_in_progress": 0,
+                "total_features_done": 0,
+                "total": 0
+            },
+            "Iteration 2": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0,
+                    "non_assigned": 0
+                },
+                "todo_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "in_progress_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "done_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "todo": 0,
+                "in_progress": 0,
+                "done": 0,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total_features_todo": 0,
+                "total_features_in_progress": 0,
+                "total_features_done": 0,
+                "total": 0
+            },
+            "Iteration 3": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0,
+                    "non_assigned": 0
+                },
+                "todo_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "in_progress_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "done_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "todo": 0,
+                "in_progress": 0,
+                "done": 0,
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total_features_todo": 0,
+                "total_features_in_progress": 0,
+                "total_features_done": 0,
+                "total": 0
+            },
             "no_iteration": {
                 "assigned_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0,
                     "non_assigned": 0
                 },
+                "todo_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "in_progress_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "done_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "todo": 0,
+                "in_progress": 0,
+                "done": 0,
                 "total_issues": 0,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
                 "total_bugs": 0,
+                "total_features_todo": 0,
+                "total_features_in_progress": 0,
+                "total_features_done": 0,
                 "total": 0
             },
             "total": {
@@ -73,11 +203,29 @@
                     "didaclinaresUPC": 0,
                     "non_assigned": 0
                 },
+                "todo_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "in_progress_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "done_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0
+                },
+                "todo": 0,
+                "in_progress": 0,
+                "done": 0,
                 "total_issues": 0,
                 "total_issues_with_type": 0,
                 "total_features": 0,
                 "total_tasks": 0,
                 "total_bugs": 0,
+                "total_features_todo": 0,
+                "total_features_in_progress": 0,
+                "total_features_done": 0,
                 "total": 0
             }
         }
