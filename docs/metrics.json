@@ -1,0 +1,99 @@
+{
+    "avatars": {
+        "DidacLinares": "https://avatars.githubusercontent.com/u/138216841?v=4",
+        "didaclinaresUPC": "https://avatars.githubusercontent.com/u/154509391?v=4"
+    },
+    "commits": {
+        "DidacLinares": 5,
+        "didaclinaresUPC": 0,
+        "anonymous": 0,
+        "total": 5
+    },
+    "modified_lines": {
+        "DidacLinares": {
+            "additions": 39,
+            "deletions": 3,
+            "modified": 42
+        },
+        "didaclinaresUPC": {
+            "additions": 0,
+            "deletions": 0,
+            "modified": 0
+        },
+        "total": {
+            "additions": 39,
+            "deletions": 3,
+            "modified": 42
+        }
+    },
+    "commit_streak": {
+        "DidacLinares": 1,
+        "didaclinaresUPC": 0
+    },
+    "commit_merges": 0,
+    "longest_commit_streak_per_user": {
+        "DidacLinares": 1,
+        "didaclinaresUPC": 0
+    },
+    "issues": {
+        "assigned": {
+            "DidacLinares": 0,
+            "didaclinaresUPC": 0,
+            "non_assigned": 0
+        },
+        "closed": {
+            "DidacLinares": 0,
+            "didaclinaresUPC": 0
+        },
+        "have_pull_request": 0,
+        "assignee_is_pr_author": 0,
+        "total_closed": 0,
+        "total": 0
+    },
+    "project": {
+        "has_iterations": false,
+        "iterations": {},
+        "metrics_by_iteration": {
+            "no_iteration": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0,
+                    "non_assigned": 0
+                },
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total": 0
+            },
+            "total": {
+                "assigned_per_member": {
+                    "DidacLinares": 0,
+                    "didaclinaresUPC": 0,
+                    "non_assigned": 0
+                },
+                "total_issues": 0,
+                "total_issues_with_type": 0,
+                "total_features": 0,
+                "total_tasks": 0,
+                "total_bugs": 0,
+                "total": 0
+            }
+        }
+    },
+    "pull_requests": {
+        "created": {
+            "DidacLinares": 0,
+            "didaclinaresUPC": 0
+        },
+        "merged_per_member": {
+            "DidacLinares": 0,
+            "didaclinaresUPC": 0
+        },
+        "merged": 0,
+        "not_merged_by_author": 0,
+        "closed": 0,
+        "total": 0
+    }
+}
