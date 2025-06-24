@@ -39,7 +39,7 @@
         "assigned": {
             "DidacLinares": 0,
             "didaclinaresUPC": 0,
-            "non_assigned": 5
+            "non_assigned": 6
         },
         "closed": {
             "DidacLinares": 0,
@@ -48,7 +48,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 0,
-        "total": 5
+        "total": 6
     },
     "project": {
         "has_iterations": true,
