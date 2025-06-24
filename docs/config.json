@@ -8,5 +8,6 @@
     "excluded_members": [
     ],
     "excluded_repos": [
+        "MetricsAppTemplate","Metrics", "MetricsAppPages","prova2","prova","MetricsApp","DemoMetrics"
     ]
 }
