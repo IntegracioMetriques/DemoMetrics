@@ -39,7 +39,7 @@
         "assigned": {
             "DidacLinares": 0,
             "didaclinaresUPC": 0,
-            "non_assigned": 3
+            "non_assigned": 5
         },
         "closed": {
             "DidacLinares": 0,
@@ -48,7 +48,7 @@
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
         "total_closed": 0,
-        "total": 3
+        "total": 5
     },
     "project": {
         "has_iterations": true,
@@ -170,7 +170,7 @@
                 "assigned_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0,
-                    "non_assigned": 1
+                    "non_assigned": 3
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -184,24 +184,24 @@
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0
                 },
-                "todo": 1,
+                "todo": 3,
                 "in_progress": 0,
                 "done": 0,
-                "total_issues": 3,
-                "total_issues_with_type": 2,
+                "total_issues": 5,
+                "total_issues_with_type": 4,
                 "total_features": 1,
-                "total_tasks": 1,
+                "total_tasks": 3,
                 "total_bugs": 0,
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 4
+                "total": 6
             },
             "total": {
                 "assigned_per_member": {
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0,
-                    "non_assigned": 1
+                    "non_assigned": 3
                 },
                 "todo_per_member": {
                     "DidacLinares": 0,
@@ -215,18 +215,18 @@
                     "DidacLinares": 0,
                     "didaclinaresUPC": 0
                 },
-                "todo": 1,
+                "todo": 3,
                 "in_progress": 0,
                 "done": 0,
-                "total_issues": 3,
-                "total_issues_with_type": 2,
+                "total_issues": 5,
+                "total_issues_with_type": 4,
                 "total_features": 1,
-                "total_tasks": 1,
+                "total_tasks": 3,
                 "total_bugs": 0,
                 "total_features_todo": 1,
                 "total_features_in_progress": 0,
                 "total_features_done": 0,
-                "total": 4
+                "total": 6
             }
         }
     },
