@@ -30,7 +30,7 @@
         "DidacLinares": 2,
         "didaclinaresUPC": 0
     },
-    "commit_merges": 0,
+    "commit_merges": 1,
     "longest_commit_streak_per_user": {
         "DidacLinares": 2,
         "didaclinaresUPC": 0
@@ -236,10 +236,10 @@
             "didaclinaresUPC": 0
         },
         "merged_per_member": {
-            "DidacLinares": 0,
+            "DidacLinares": 1,
             "didaclinaresUPC": 0
         },
-        "merged": 0,
+        "merged": 1,
         "not_merged_by_author": 0,
         "closed": 0,
         "total": 1
