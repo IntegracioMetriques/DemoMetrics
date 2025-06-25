@@ -4,16 +4,16 @@
         "didaclinaresUPC": "https://avatars.githubusercontent.com/u/154509391?v=4"
     },
     "commits": {
-        "DidacLinares": 5,
+        "DidacLinares": 6,
         "didaclinaresUPC": 0,
         "anonymous": 0,
-        "total": 5
+        "total": 6
     },
     "modified_lines": {
         "DidacLinares": {
-            "additions": 39,
-            "deletions": 3,
-            "modified": 42
+            "additions": 42,
+            "deletions": 4,
+            "modified": 46
         },
         "didaclinaresUPC": {
             "additions": 0,
@@ -21,18 +21,18 @@
             "modified": 0
         },
         "total": {
-            "additions": 39,
-            "deletions": 3,
-            "modified": 42
+            "additions": 42,
+            "deletions": 4,
+            "modified": 46
         }
     },
     "commit_streak": {
-        "DidacLinares": 1,
+        "DidacLinares": 2,
         "didaclinaresUPC": 0
     },
     "commit_merges": 0,
     "longest_commit_streak_per_user": {
-        "DidacLinares": 1,
+        "DidacLinares": 2,
         "didaclinaresUPC": 0
     },
     "issues": {
@@ -232,7 +232,7 @@
     },
     "pull_requests": {
         "created": {
-            "DidacLinares": 0,
+            "DidacLinares": 1,
             "didaclinaresUPC": 0
         },
         "merged_per_member": {
@@ -242,6 +242,6 @@
         "merged": 0,
         "not_merged_by_author": 0,
         "closed": 0,
-        "total": 0
+        "total": 1
     }
 }
