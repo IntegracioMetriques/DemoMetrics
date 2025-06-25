@@ -244,16 +244,16 @@
     },
     "2025-06-24": {
         "commits": {
-            "DidacLinares": 6,
+            "DidacLinares": 7,
             "didaclinaresUPC": 0,
             "anonymous": 0,
-            "total": 6
+            "total": 7
         },
         "modified_lines": {
             "DidacLinares": {
                 "additions": 42,
-                "deletions": 4,
-                "modified": 46
+                "deletions": 6,
+                "modified": 48
             },
             "didaclinaresUPC": {
                 "additions": 0,
@@ -262,8 +262,8 @@
             },
             "total": {
                 "additions": 42,
-                "deletions": 4,
-                "modified": 46
+                "deletions": 6,
+                "modified": 48
             }
         },
         "commit_streak": {
@@ -282,12 +282,12 @@
                 "non_assigned": 6
             },
             "closed": {
-                "DidacLinares": 0,
+                "DidacLinares": 1,
                 "didaclinaresUPC": 0
             },
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
-            "total_closed": 0,
+            "total_closed": 1,
             "total": 11
         },
         "project": {
@@ -472,7 +472,7 @@
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 1,
+                "DidacLinares": 2,
                 "didaclinaresUPC": 0
             },
             "merged_per_member": {
@@ -482,7 +482,7 @@
             "merged": 1,
             "not_merged_by_author": 0,
             "closed": 0,
-            "total": 1
+            "total": 2
         }
     }
 }
