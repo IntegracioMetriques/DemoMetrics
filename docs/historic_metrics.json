@@ -244,16 +244,16 @@
     },
     "2025-06-24": {
         "commits": {
-            "DidacLinares": 5,
+            "DidacLinares": 6,
             "didaclinaresUPC": 0,
             "anonymous": 0,
-            "total": 5
+            "total": 6
         },
         "modified_lines": {
             "DidacLinares": {
-                "additions": 39,
-                "deletions": 3,
-                "modified": 42
+                "additions": 42,
+                "deletions": 4,
+                "modified": 46
             },
             "didaclinaresUPC": {
                 "additions": 0,
@@ -261,25 +261,25 @@
                 "modified": 0
             },
             "total": {
-                "additions": 39,
-                "deletions": 3,
-                "modified": 42
+                "additions": 42,
+                "deletions": 4,
+                "modified": 46
             }
         },
         "commit_streak": {
-            "DidacLinares": 1,
+            "DidacLinares": 2,
             "didaclinaresUPC": 0
         },
-        "commit_merges": 0,
+        "commit_merges": 1,
         "longest_commit_streak_per_user": {
-            "DidacLinares": 1,
+            "DidacLinares": 2,
             "didaclinaresUPC": 0
         },
         "issues": {
             "assigned": {
-                "DidacLinares": 2,
+                "DidacLinares": 3,
                 "didaclinaresUPC": 2,
-                "non_assigned": 5
+                "non_assigned": 6
             },
             "closed": {
                 "DidacLinares": 0,
@@ -288,7 +288,7 @@
             "have_pull_request": 0,
             "assignee_is_pr_author": 0,
             "total_closed": 0,
-            "total": 9
+            "total": 11
         },
         "project": {
             "has_iterations": true,
@@ -472,17 +472,17 @@
         },
         "pull_requests": {
             "created": {
-                "DidacLinares": 0,
+                "DidacLinares": 1,
                 "didaclinaresUPC": 0
             },
             "merged_per_member": {
-                "DidacLinares": 0,
+                "DidacLinares": 1,
                 "didaclinaresUPC": 0
             },
-            "merged": 0,
+            "merged": 1,
             "not_merged_by_author": 0,
             "closed": 0,
-            "total": 0
+            "total": 1
         }
     }
 }
