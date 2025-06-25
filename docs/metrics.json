@@ -42,12 +42,12 @@
             "non_assigned": 6
         },
         "closed": {
-            "DidacLinares": 0,
+            "DidacLinares": 1,
             "didaclinaresUPC": 0
         },
         "have_pull_request": 0,
         "assignee_is_pr_author": 0,
-        "total_closed": 0,
+        "total_closed": 1,
         "total": 11
     },
     "project": {
